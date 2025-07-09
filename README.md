@@ -15,7 +15,7 @@ Built with LangChain, OpenAI, and FAISS.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/cyber937/resolve-assistant.git
+git clone https://github.com/cyber937/davinci_resolve_ai_assistant.git
 cd resolve-assistant
 ```
 
