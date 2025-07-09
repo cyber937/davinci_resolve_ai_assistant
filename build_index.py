@@ -1,6 +1,8 @@
+from langchain_community.vectorstores import FAISS
+from langchain_openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import FAISS
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_community.document_loaders import TextLoader
+import os
 
 print("Loading text...")
 with open("resolve_manual.txt", "r", encoding="utf-8") as f:
