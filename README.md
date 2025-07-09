@@ -16,7 +16,7 @@ Built with LangChain, OpenAI, and FAISS.
 
 ```bash
 git clone https://github.com/cyber937/davinci_resolve_ai_assistant.git
-cd resolve-assistant
+cd davinci_resolve_ai_assistant
 ```
 
 ### 2. Download the Resolve manual PDF (optional)
