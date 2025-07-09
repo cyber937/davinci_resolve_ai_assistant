@@ -12,19 +12,19 @@ Built with LangChain, OpenAI, and FAISS.
 
 ## 🚀 Quick Start
 
-### 1. Download the Resolve manual PDF (optional)
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/cyber937/resolve-assistant.git
+cd resolve-assistant
+```
+
+### 2. Download the Resolve manual PDF (optional)
 
 You can download the official DaVinci Resolve 20 New Features Guide directly from Blackmagic Design:
 
 ```bash
 curl -o DaVinci_Resolve_20_Reference_Manual.pdf https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_20_Reference_Manual.pdf
-```
-
-### 2. Clone the repo
-
-```bash
-git clone https://github.com/YOUR_USERNAME/resolve-assistant.git
-cd resolve-assistant
 ```
 
 ### 3. Set up a virtual environment
