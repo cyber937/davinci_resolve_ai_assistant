@@ -63,17 +63,17 @@ python qa_chat.py
 
 ## 💡 Example questions
 
-• How do I export ProRes?
-• What’s the difference between Edit and Cut pages?
-• How can I use Fusion for compositing?
+- How do I export ProRes?
+- What’s the difference between Edit and Cut pages?
+- How can I use Fusion for compositing?
 
 ## 🛠 Tech Stack
 
-• Python 3.10+
-• LangChain
-• OpenAI API
-• FAISS (local vector DB)
-• CLI Interface (Streamlit or macOS UI coming soon)
+- Python 3.10+
+- LangChain
+- OpenAI API
+- FAISS (local vector DB)
+- CLI Interface
 
 ## 📄 License
 
