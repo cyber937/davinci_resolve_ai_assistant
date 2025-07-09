@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+vector_index/
+resolve_manual.txt
+rag-env/
+.env
+DaVinci_Resolve_20_Reference_Manual.pdf
