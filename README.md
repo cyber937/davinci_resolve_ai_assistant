@@ -63,7 +63,8 @@ python qa_chat.py
 
 ## 💡 Example questions
 
-- How do I export ProRes?
+- How to import medias?
+- How to make a mask in fustion?
 - What’s the difference between Edit and Cut pages?
 - How can I use Fusion for compositing?
 
